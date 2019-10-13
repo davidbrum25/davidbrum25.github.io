@@ -1,0 +1,13 @@
+/*  VARIABLES */
+:root {
+  --main-color: #999999;
+  --main-font-color: #999999;
+  --main-bg-color: #1a1a1a;
+  --main-width: 75%;
+  --second-width: 90%;
+  --main-shadow: 0px 3px 1em black;
+  --scrollbar: 8px;
+  --txt-font:'Turret Road', cursive;
+  --title-font:'Righteous', cursive;
+  --main-width:80%;
+}
