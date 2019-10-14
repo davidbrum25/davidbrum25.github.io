@@ -10,4 +10,7 @@
   --txt-font:'Turret Road', cursive;
   --title-font:'Righteous', cursive;
   --main-width:80%;
+  --header-height:5em;
+  --color-hover: #df5757;
+  --color-active: #0071bc;
 }
