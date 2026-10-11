@@ -1,0 +1,6 @@
+
+# Secretos / variables de entorno
+.env
+.env.*
+!.env.example
+*.pem
